@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/airdnd/static/css/main.5f361e03.chunk.css",
+    "main.js": "/airdnd/static/js/main.b1280be4.chunk.js",
+    "main.js.map": "/airdnd/static/js/main.b1280be4.chunk.js.map",
+    "runtime-main.js": "/airdnd/static/js/runtime-main.82ec2b39.js",
+    "runtime-main.js.map": "/airdnd/static/js/runtime-main.82ec2b39.js.map",
+    "static/js/2.d1e42242.chunk.js": "/airdnd/static/js/2.d1e42242.chunk.js",
+    "static/js/2.d1e42242.chunk.js.map": "/airdnd/static/js/2.d1e42242.chunk.js.map",
+    "index.html": "/airdnd/index.html",
+    "precache-manifest.f9fea8349a5fc1d39359ab448b73d3c3.js": "/airdnd/precache-manifest.f9fea8349a5fc1d39359ab448b73d3c3.js",
+    "service-worker.js": "/airdnd/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/airdnd/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d1e42242.chunk.js.LICENSE.txt": "/airdnd/static/js/2.d1e42242.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/airdnd/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82ec2b39.js",
+    "static/js/2.d1e42242.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b1280be4.chunk.js"
+  ]
+}
